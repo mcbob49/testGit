@@ -11,4 +11,6 @@ with open(filename,'r') as csv_file:
 	for line in readContents:
 		print(line,end='')
 		print(line.split(", - "))
-	
+
+print("++++++++")	
+print("finished")
