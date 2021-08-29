@@ -14,3 +14,4 @@ with open(filename,'r') as csv_file:
 
 print("++++++++")	
 print("finished")
+print("********")
